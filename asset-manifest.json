@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/room-homepage/static/css/main.b32e69bc.css",
+    "main.js": "/room-homepage/static/js/main.ca85361c.js",
+    "static/media/desktop-image-hero-1.jpg": "/room-homepage/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/room-homepage/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/room-homepage/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/mobile-image-hero-1.jpg": "/room-homepage/static/media/mobile-image-hero-1.5de3d1472db703fb2f8a.jpg",
+    "static/media/mobile-image-hero-2.jpg": "/room-homepage/static/media/mobile-image-hero-2.51db290a00388a5a0bea.jpg",
+    "static/media/mobile-image-hero-3.jpg": "/room-homepage/static/media/mobile-image-hero-3.601d0f37f7ff5e62008c.jpg",
+    "index.html": "/room-homepage/index.html",
+    "main.b32e69bc.css.map": "/room-homepage/static/css/main.b32e69bc.css.map",
+    "main.ca85361c.js.map": "/room-homepage/static/js/main.ca85361c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b32e69bc.css",
+    "static/js/main.ca85361c.js"
+  ]
+}
